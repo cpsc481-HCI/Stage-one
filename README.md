@@ -1,6 +1,4 @@
 # Stage-one
-Stage one
-Put your expectation and divide your work tasks on the readme file
 Our expections are:
 1. Let other know if you cannot come to tutorial
 2. Complete all materials by internal deadlines
