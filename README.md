@@ -10,8 +10,13 @@ Our expections are:
 8. Point out mistakes constructively
 
 Our work tasks are for stage one:
-Karen: Complete the team contract, proofread, write a readme file
-Ivan: Proofread, create a portfolio
-Louise: Write one of the proposed ideas, proofread, create a github page 
-Nathan: Write one of the proposed ideas, proofread
-Osa: Write one of the proposed ideas, proofread
+Karen: 
+  Complete the team contract, proofread, write a readme file
+Ivan: 
+  Proofread, create a portfolio
+Louise: 
+  Write one of the proposed ideas, proofread, create a github page 
+Nathan: 
+   Write one of the proposed ideas, proofread
+Osa: 
+  Write one of the proposed ideas, proofread
